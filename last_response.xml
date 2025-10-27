@@ -1,0 +1,98 @@
+<cars>
+  <car>
+    <model>Mazda RX4</model>
+  </car>
+  <car>
+    <model>Mazda RX4 Wag</model>
+  </car>
+  <car>
+    <model>Datsun 710</model>
+  </car>
+  <car>
+    <model>Hornet 4 Drive</model>
+  </car>
+  <car>
+    <model>Hornet Sportabout</model>
+  </car>
+  <car>
+    <model>Valiant</model>
+  </car>
+  <car>
+    <model>Duster 360</model>
+  </car>
+  <car>
+    <model>Merc 240D</model>
+  </car>
+  <car>
+    <model>Merc 230</model>
+  </car>
+  <car>
+    <model>Merc 280</model>
+  </car>
+  <car>
+    <model>Merc 280C</model>
+  </car>
+  <car>
+    <model>Merc 450SE</model>
+  </car>
+  <car>
+    <model>Merc 450SL</model>
+  </car>
+  <car>
+    <model>Merc 450SLC</model>
+  </car>
+  <car>
+    <model>Cadillac Fleetwood</model>
+  </car>
+  <car>
+    <model>Lincoln Continental</model>
+  </car>
+  <car>
+    <model>Chrysler Imperial</model>
+  </car>
+  <car>
+    <model>Fiat 128</model>
+  </car>
+  <car>
+    <model>Honda Civic</model>
+  </car>
+  <car>
+    <model>Toyota Corolla</model>
+  </car>
+  <car>
+    <model>Toyota Corona</model>
+  </car>
+  <car>
+    <model>Dodge Challenger</model>
+  </car>
+  <car>
+    <model>AMC Javelin</model>
+  </car>
+  <car>
+    <model>Camaro Z28</model>
+  </car>
+  <car>
+    <model>Pontiac Firebird</model>
+  </car>
+  <car>
+    <model>Fiat X1-9</model>
+  </car>
+  <car>
+    <model>Porsche 914-2</model>
+  </car>
+  <car>
+    <model>Lotus Europa</model>
+  </car>
+  <car>
+    <model>Ford Pantera L</model>
+  </car>
+  <car>
+    <model>Ferrari Dino</model>
+  </car>
+  <car>
+    <model>Maserati Bora</model>
+  </car>
+  <car>
+    <model>Volvo 142E</model>
+  </car>
+</cars>

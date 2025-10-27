@@ -1,0 +1,4 @@
+{
+  "watch": ["main.js"],
+  "exec": "node main.js -i mtcars.json -h 127.0.0.1 -p 3000"
+}
